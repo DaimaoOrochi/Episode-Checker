@@ -9,3 +9,14 @@ c:\users\ryan\documents\visual studio 2013\Projects\Episode Checker\Episode Chec
 c:\users\ryan\documents\visual studio 2013\Projects\Episode Checker\Episode Checker\bin\Debug\NLog.config
 c:\users\ryan\documents\visual studio 2013\Projects\Episode Checker\Episode Checker\bin\Debug\NLog.dll
 c:\users\ryan\documents\visual studio 2013\Projects\Episode Checker\Episode Checker\bin\Debug\NLog.xml
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\bin\Debug\Episode Checker.exe.config
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\obj\Debug\Episode Checker.exe
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\obj\Debug\Episode Checker.pdb
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\bin\Debug\NLog.config
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\bin\Debug\Episode Checker.exe
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\bin\Debug\Episode Checker.pdb
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\bin\Debug\NLog.dll
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\bin\Debug\WebDriver.dll
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\bin\Debug\NLog.xml
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\bin\Debug\WebDriver.xml
+C:\Code\Episode-Checker\Episode-Checker\Episode Checker\obj\Debug\Episode Checker.csprojResolveAssemblyReference.cache
