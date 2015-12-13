@@ -44,8 +44,7 @@ namespace Episode_Checker
 
             var searchBox = driver.FindElement(By.Id("lst-ib"));
             //Looks for the correct site.
-            bool dubPresent;
-            string episodeNumber;
+            
 
             searchBox.SendKeys("animefreak.tv");
 
