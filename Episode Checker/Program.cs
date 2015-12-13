@@ -15,7 +15,19 @@ using OpenQA.Selenium.Interactions;
 
 namespace Episode_Checker
 {
-    class Program
+    public class MyLogger
+    {
+        public string episode;
+        
+        private static Logger logger = LogManager.GetCurrentClassLogger();
+
+        public void LogTheEpisode()
+        {
+            logger.Info("{0} is not yet Dubbed", episode);
+        }
+    }
+    
+    class Program : MyLogger
     {
         private static void Main(string[] args)
         {
@@ -36,9 +48,6 @@ namespace Episode_Checker
             string episodeNumber;
 
             searchBox.SendKeys("animefreak.tv");
-
-
-        
 
             searchBox.Submit();
 
