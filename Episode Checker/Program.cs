@@ -76,6 +76,10 @@ namespace Episode_Checker
 
             do
             {
+                if (!driver.FindElement(By.XPath("id('primary')/div/div[3]/div/a[2]")).Enabled)
+                {
+
+                }
                 driver.FindElement(By.ClassName("page-next")).Click();
             } while (driver.FindElement(By.XPath("id('primary')/div/div[3]/div/a[2]")).Enabled);
             
